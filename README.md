@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bartek10695
 - 👀 I’m interested in IT and electronics
-- 🌱 Currently, I'm learning programming in Python and using the Azure, GitHub, WinX and WinServer 
+- 🌱 Currently, I'm learning programming in Python and other programming languages.
 - 💞️ Currently I am not looking for cooperation, because I am just learning
-- 📫 Contact with me: 📧 bartek10695@interia.pl
+- 📫 Contact with me: 📧 bartek10695@gmail.com
 - PL/EN -  I don't know English very well.
 
 <!---
