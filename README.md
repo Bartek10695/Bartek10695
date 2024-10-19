@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bartek10695
 - 👀 I’m interested in IT and electronics
 - 🌱 Currently, I'm learning programming and studying IT
-- 📫 Contact with me: 📧 bartek10695@gmail.com
+- 📫 Contact with me: 📧 bartek10695@proton.me
 - PL/EN -  I don't know English very well.
 
 <!---
